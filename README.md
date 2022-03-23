@@ -1,0 +1,2 @@
+# letter_map_encryption
+This section deals with the main libraries and public variables and the addresses of the main files for reading the message file and writing the encrypted message. Note that the algorithm implemented in this code is not based on Caesar code or letter shifting, in fact, each letter is mapped with another letter randomly and peer-to-peer. Numbers and items other than the 26 letters of the English alphabet are also not encrypted.
